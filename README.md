@@ -6,10 +6,9 @@ Created with <span style="color: #FF0000;">❤</span>
 - https://zed.dev/docs/extensions/themes
 - https://zed.dev/blog/user-themes-now-in-preview
 
-Thanks to:
+Colors follow the official [Nord palette](https://www.nordtheme.com/docs/colors-and-palettes) and the [Nord VS Code port](https://www.nordtheme.com/ports/visual-studio-code) syntax mapping.
 
-- https://github.com/huytd/vscode-nord-light
-- https://www.nordtheme.com/ports/visual-studio-code
+Nord Light follows Nord's bright ambiance guidelines: Snow Storm surfaces (`nord6` editor, `nord5` panels, `nord4` borders/controls) and Polar Night text (`nord0`). Frost and Aurora syntax colors keep their Nord hue but are darkened to ≥ 4.5:1 contrast (WCAG AA) on `nord5`, since the original pastels are unreadable on a light background.
 
 Place `nord.json` in `~/.config/zed/themes`, restart Zed and select it from the command palette (`Ctrl/Cmd+Shift+P`) or (`Ctrl/Cmd+K Ctrl/Cmd+T`).
 
