@@ -1,13 +1,13 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Nord",
-  "author": "Sergei <Mikasius> Metlenkin",
+  "author": "Sergei <Mikasius> Metlenkin, eries",
   "themes": [
     {
       "name": "Nord Dark",
       "appearance": "dark",
       "style": {
-        "border": "#434c5e",
+        "border": "#3b4252",
         "border.variant": "#3b4252",
         "border.focused": "#88c0d0",
         "border.selected": "#88c0d080",
@@ -456,7 +456,7 @@
       "name": "Nord Darker",
       "appearance": "dark",
       "style": {
-        "border": "#434c5e",
+        "border": "#3b4252",
         "border.variant": "#3b4252",
         "border.focused": "#88c0d0",
         "border.selected": "#88c0d080",
@@ -905,7 +905,7 @@
       "name": "Nord Light",
       "appearance": "light",
       "style": {
-        "border": "#c3cad6",
+        "border": "#d8dee9",
         "border.variant": "#d8dee9",
         "border.focused": "#5e81ac",
         "border.selected": "#5e81ac80",
@@ -1354,7 +1354,7 @@
       "name": "Nord Dark - No Italics",
       "appearance": "dark",
       "style": {
-        "border": "#434c5e",
+        "border": "#3b4252",
         "border.variant": "#3b4252",
         "border.focused": "#88c0d0",
         "border.selected": "#88c0d080",
@@ -1803,7 +1803,7 @@
       "name": "Nord Light - No Italics",
       "appearance": "light",
       "style": {
-        "border": "#c3cad6",
+        "border": "#d8dee9",
         "border.variant": "#d8dee9",
         "border.focused": "#5e81ac",
         "border.selected": "#5e81ac80",
